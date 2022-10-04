@@ -1,4 +1,4 @@
-/* Just trying something*/
+/* Just trying something
 var menu = document.getElementById('Menu1122');
 var Original_Content = `
 <div >
@@ -27,3 +27,4 @@ fetch('http://localhost:3000/menu')
       
     });
   })
+*/
